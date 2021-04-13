@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97451461520",
+    "project_id": "beautyapps-ccd55",
+    "storage_bucket": "beautyapps-ccd55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97451461520:android:22b9cacc1514df344b4115",
+        "android_client_info": {
+          "package_name": "edu.udb.beautyapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97451461520-ppjnou1gb1267tukobdophgnis23rgf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxl-9_ziTV9GW7057Y0k3_A5SQ9hQ-vmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97451461520-ppjnou1gb1267tukobdophgnis23rgf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
